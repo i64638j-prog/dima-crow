@@ -1,10 +1,5 @@
 # Random Task Generator - Генератор случайных задач
 
-## Автор
-**Иван Петров** (Ivan Petrov)
-- GitHub: [github.com/ivanpetrov](https://github.com/ivanpetrov)
-- Email: ivan.petrov@example.com
-
 ## Описание программы
 Random Task Generator - это графическое приложение на Python для генерации случайных задач и отслеживания их выполнения. Программа позволяет:
 
