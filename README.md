@@ -1,1 +1,39 @@
-# dima-crow
+# Random Task Generator - Генератор случайных задач
+
+## Автор
+**Иван Петров** (Ivan Petrov)
+- GitHub: [github.com/ivanpetrov](https://github.com/ivanpetrov)
+- Email: ivan.petrov@example.com
+
+## Описание программы
+Random Task Generator - это графическое приложение на Python для генерации случайных задач и отслеживания их выполнения. Программа позволяет:
+
+- Генерировать случайные задачи из предопределённого списка
+- Фильтровать задачи по типу (Учёба, Спорт, Работа) при генерации
+- Добавлять свои собственные задачи
+- Просматривать историю сгенерированных задач
+- Фильтровать историю по типу задач
+- Сохранять и загружать список задач в JSON
+- Сохранять и загружать историю в JSON
+- Просматривать статистику использования
+- Удалять ненужные задачи
+
+## Требования к системе
+
+### Программные требования
+- Python 3.6 или выше
+- Библиотеки: только стандартные (tkinter, json, random, datetime)
+
+### Установка Python
+- **Windows**: Скачайте с [python.org](https://www.python.org/downloads/)
+- **macOS**: `brew install python3`
+- **Linux**: `sudo apt-get install python3`
+
+### Проверка tkinter
+
+**Windows/Mac**: Tkinter обычно установлен по умолчанию
+
+**Linux**:
+```bash
+sudo apt-get install python3-tk  # Ubuntu/Debian
+sudo dnf install python3-tkinter # Fedora
